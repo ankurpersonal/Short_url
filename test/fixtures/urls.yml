@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  given_link: MyString
+  short_link: MyString
+  count: 1
+
+two:
+  given_link: MyString
+  short_link: MyString
+  count: 1
